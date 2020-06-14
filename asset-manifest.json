@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jacob-weikert/static/css/main.914958f1.chunk.css",
+    "main.js": "/jacob-weikert/static/js/main.c739a781.chunk.js",
+    "main.js.map": "/jacob-weikert/static/js/main.c739a781.chunk.js.map",
+    "runtime-main.js": "/jacob-weikert/static/js/runtime-main.4c267551.js",
+    "runtime-main.js.map": "/jacob-weikert/static/js/runtime-main.4c267551.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/jacob-weikert/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3161a971.chunk.js": "/jacob-weikert/static/js/2.3161a971.chunk.js",
+    "static/js/2.3161a971.chunk.js.map": "/jacob-weikert/static/js/2.3161a971.chunk.js.map",
+    "index.html": "/jacob-weikert/index.html",
+    "precache-manifest.df09724711727a9a655b01636ce30f14.js": "/jacob-weikert/precache-manifest.df09724711727a9a655b01636ce30f14.js",
+    "service-worker.js": "/jacob-weikert/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/jacob-weikert/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.914958f1.chunk.css.map": "/jacob-weikert/static/css/main.914958f1.chunk.css.map",
+    "static/js/2.3161a971.chunk.js.LICENSE.txt": "/jacob-weikert/static/js/2.3161a971.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/jacob-weikert/static/media/bg-photo.1a7d18e3.jpg",
+    "static/media/style.css": "/jacob-weikert/static/media/nz-me-xlg.0eddd094.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c267551.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3161a971.chunk.js",
+    "static/css/main.914958f1.chunk.css",
+    "static/js/main.c739a781.chunk.js"
+  ]
+}
